@@ -1,0 +1,11 @@
+ASSET_MANIFEST.txt
+background.webp
+customers.webp
+dining-food.webp
+dining-zone.webp
+dotgothic16-0.woff2
+food-icons.webp
+index-8fNKJI1R.js
+index-CqI6Xth7.css
+index.html
+mystias-izakaya-bgm.mp3
